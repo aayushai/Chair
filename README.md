@@ -12,7 +12,7 @@ The project focuses on providing a simple, elegant interface for users to browse
 This project makes use of **HTML**, **CSS**, and some **JavaScript** to create an interactive and responsive experience.
 
 ### Live Link
-- [Live Link](https://aayushai.github.io/Just-a-Chair/)
+- [Live Link](https://just-a-chair.vercel.app/)
 
 ### Technologies Used
 - **HTML5**: Structuring the content and elements.
